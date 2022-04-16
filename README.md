@@ -1,2 +1,2 @@
 # prog2
-Notebooks usados na disciplina de Programação Computacional II
+Notebooks usados na disciplina de Programação Computacional 2
